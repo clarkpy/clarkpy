@@ -6,7 +6,7 @@ My name is Snowy, I am a 14 year old Developer that specializes in Java Developm
 However recently I have been looking into Creating Websites with Advanced APIs.
 
 ### Here are the languages that I am "Fluent" In.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,kotlin,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,kotlin,py,java)](https://e-z.bio/snowyjs)
 
 ### I'm currently learning a number of languages, frameworks and libraries.
 [![My Skills](https://skillicons.dev/icons?i=c,cs,ts,lua,maven)](https://skillicons.dev)
