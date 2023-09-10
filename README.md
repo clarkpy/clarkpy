@@ -9,8 +9,8 @@ However recently I have been looking into Creating Websites with Advanced APIs.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,kotlin,py,java)](https://e-z.bio/snowyjs)
 
 ### I'm currently learning a number of languages, frameworks and libraries.
-[![My Skills](https://skillicons.dev/icons?i=c,cs,ts,lua,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,ts,lua,maven)](https://e-z.bio/snowyjs)
 
 ### Here are some of the tools and services I use during and after development.
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,aws,azure,cloudflare,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,aws,azure,cloudflare,github)](https://e-z.bio/snowyjs)
 
