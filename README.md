@@ -1,9 +1,8 @@
 # Hiya I'm Snowy
-## I'm a 14 year old developer from London.
+## I'm a 14 year old developer from England.
 
 ## My Background / A bit about me.
-My name is Snowy, I am a 14 year old Developer that specializes in Java Development, 
-However recently I have been looking into Creating Websites with Advanced APIs.
+My name is Snowy, I am a 14 year old Developer that specializes in Software / Website Engineering 
 
 ### Here are the languages that I am "Fluent" In.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,kotlin,py,java)](https://e-z.bio/snowyjs)
