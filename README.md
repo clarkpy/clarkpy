@@ -7,7 +7,7 @@ My name is Snowy, I am Developer that specializes in Software / Website Engineer
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://e-z.bio/snowyjs)
 
 ### I'm currently learning a number of languages, frameworks and libraries.
-[![My Skills](https://skillicons.dev/icons?i=c,cs,unity,lua,maven)](https://e-z.bio/snowyjs)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,kotlin,unity,lua,maven)](https://e-z.bio/snowyjs)
 
 ### Here are some of the tools and services I use during and after development.
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,aws,azure,cloudflare,github)](https://e-z.bio/snowyjs)
