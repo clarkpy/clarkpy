@@ -1,4 +1,4 @@
-# Hiya I'm Snowy
+# Hiya I'm Snowy 👋
 
 ## My Background / A bit about me.
 My name is Snowy, I am Developer that specializes in Software / Website Engineering 
