@@ -13,3 +13,5 @@ My name is Snowy, I am Developer that specializes in Software / Website Engineer
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,aws,azure,cloudflare,github)](https://e-z.bio/snowyjs)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=snowypy)](https://mlg.lol/snowyjs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowypy)](https://mlg.lol/snowyjs)
+
+[![Waka](https://github-readme-stats.vercel.app/api/wakatime?username=snowy-cool)](https://wakatime.com/snowy-cool)
