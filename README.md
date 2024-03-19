@@ -12,4 +12,4 @@ My name is Snowy, I am Developer that specializes in Software / Website Engineer
 ### Here are some of the tools and services I use during and after development.
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,aws,azure,cloudflare,github)](https://e-z.bio/snowyjs)
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=snowypy&theme=vue&show_icons=true)](https://mlg.lol/snowyjs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisnowypy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
