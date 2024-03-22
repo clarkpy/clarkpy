@@ -10,8 +10,8 @@ My name is Snowy, I am Developer that specializes in Software / Website Engineer
 [![My Skills](https://skillicons.dev/icons?i=c,cs,gradle,ts,ejs)
 
 ### Here are some of the tools and services I use during and after development.
-[My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,aws,azure,cloudflare,github)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,aws,azure,cloudflare,github)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=snowypy)](https://mlg.lol/snowyjs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowypy)
+[![Stats](https://github-readme-stats.vercel.app/api?username=snowypy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowypy)
 
 [![Waka](https://github-readme-stats.vercel.app/api/wakatime?username=snowyjs)
