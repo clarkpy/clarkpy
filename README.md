@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=snowypy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=snowypy&icon=8&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=snowypy&icon=8&color=5)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/018d0f1b-f2a9-42b9-a752-4863a76f6a14.svg)](https://wakatime.com/@018d0f1b-f2a9-42b9-a752-4863a76f6a14)
 
 <!-- made w/ https://gprm.itsvg.in -->
