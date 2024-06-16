@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Java Development
+🔭 I'm currently working on Java and Kotlin Development for both open sauce and closed sauce projects.
 
 
 # 💻 Tech Stack:
