@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Java and Kotlin Development for both open source and closed source projects. You can contact me via `me@snowyjs.lol` or via `snowyjs` on discord!
+🔭 I'm currently working on Java and Kotlin Development for both open source and closed source repositories. You can contact me via `me@snowyjs.lol` or via `snowyjs` on discord!
 
 
 ## 🌐 Socials:
