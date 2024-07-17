@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on Java and Kotlin Development for both open source and closed source repositories. You can contact me via `me@snowyjs.lol` or via `snowyjs` on discord!
 
-<p align="center"><a href="https://discord.com/users/721017166652244018"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/721017166652244018&animated=false"></a></p>
-
-
 ## 🌐 Socials:
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721017166652244018?theme=dark&bg=736479&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/721017166652244018)
 
