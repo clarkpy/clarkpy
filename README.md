@@ -21,7 +21,7 @@
 [![](https://visitcount.itsvg.in/api?id=snowypy&icon=7&color=6)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/018d0f1b-f2a9-42b9-a752-4863a76f6a14.svg)](https://wakatime.com/@018d0f1b-f2a9-42b9-a752-4863a76f6a14)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/snowyjs) 
+  [![KoFi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/snowyjs) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
