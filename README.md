@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header-GIF](bridget_walk.gif)
+![Header-GIF](top.gif)
 
 <h1>Hi, I'm snowy ❄️</h1><br />
 I'm currently working on Java and Kotlin Development for both open source and closed source repositories. You can contact me via `me@snowyjs.lol` or via `snowyjs` on discord!<br />
