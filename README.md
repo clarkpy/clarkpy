@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header-GIF](header.gif)
+![Header-GIF](e2917a322c5c7247c308d53725f0189f_w200.gif)
 
 <h1>Hi, I'm snowy ❄️</h1><br />
 I'm currently working on Java and Kotlin Development for both open source and closed source repositories. You can contact me via `me@snowyjs.lol` or via `snowyjs` on discord!<br />
