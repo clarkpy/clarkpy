@@ -11,12 +11,6 @@ I love TypeScript!<br />
 <br />[![wakatime](https://wakatime.com/badge/user/018d0f1b-f2a9-42b9-a752-4863a76f6a14.svg)](https://wakatime.com/@018d0f1b-f2a9-42b9-a752-4863a76f6a14)
 
 </div>
-
-<div align="center">
-  
-<h3>Discord</h3>
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/721017166652244018?theme=dark&bg=4f476b&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/721017166652244018)
   
 <h3></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
