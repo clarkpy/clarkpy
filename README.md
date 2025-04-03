@@ -1,9 +1,5 @@
 <div align="center">
-
-![Header-GIF](e2917a322c5c7247c308d53725f0189f_w200.gif)
-
-<h1>Hi, I'm snowy ❄️</h1><br />
-I love TypeScript!<br />
+<h1>Cigan. C</h1><br />
 </div>
 
 <div align="center">
